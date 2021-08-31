@@ -4,4 +4,4 @@
 
 ### Criado pelo Ajaxx7 
 
-Esse aplicativo foi criado para calcular IMC para dispositivos android
+Esse aplicativo foi criado para calcular IMC para dispositivos *Android* nas aulas de desenvolvimento mobile.
